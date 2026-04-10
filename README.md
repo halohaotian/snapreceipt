@@ -20,11 +20,6 @@ The App requests camera access solely for the purpose of scanning receipt images
 Photo Library Access
 The App may request access to your photo library to import existing receipt images. This access is only used when you explicitly choose to import a photo.
 
-Advertising
-The free version of SnapReceipt uses Google AdMob to display non-intrusive banner advertisements. Google AdMob may collect certain device information for ad targeting purposes. For more information about Google's data practices, please visit:
-
-Google Privacy Policy
-AdMob Privacy
 In-App Purchases
 The App offers a one-time Pro upgrade purchase. Payment processing is handled by Apple (App Store) or Google (Google Play) through their respective secure payment systems. We do not collect or store any payment information.
 
